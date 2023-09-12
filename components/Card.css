@@ -1,0 +1,10 @@
+.card {
+  color: blue;
+  font-size: 28px;
+  background-color: "#FFFFFF";
+  padding: 10;
+  margin-block-end: 20;
+  border: blue;
+  align-self: center;
+  width: 300;
+}
